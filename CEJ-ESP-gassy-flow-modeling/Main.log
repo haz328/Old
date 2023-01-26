@@ -1,0 +1,271 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  25 DEC 2020 17:05
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/haiwenzhu/Desktop/work/018 Git/CEJ-ESP-gassy-flow-modeling/Main.tex"
+(/Users/haiwenzhu/Desktop/work/018 Git/CEJ-ESP-gassy-flow-modeling/Main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (/usr/local/texlive/2020/texmf-dist/tex/latex/elsarticle/elsarticle.cls
+Document Class: elsarticle 2019/02/25, 3.2: Elsevier Ltd
+\@bls=\dimen134
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
+\c@tnote=\count175
+\c@fnote=\count176
+\c@cnote=\count177
+\c@ead=\count178
+\c@author=\count179
+\@eadauthor=\toks16
+\c@affn=\count180
+\absbox=\box45
+\elsarticlehighlightsbox=\box46
+\elsarticlegrabsbox=\box47
+\keybox=\box48
+\Columnwidth=\dimen138
+\space@left=\dimen139
+\els@boxa=\box49
+\els@boxb=\box50
+\leftMargin=\dimen140
+\@enLab=\toks17
+\@sep=\skip49
+\@@sep=\skip50
+ (/Users/haiwenzhu/Desktop/work/018 Git/CEJ-ESP-gassy-flow-modeling/Main.spl) (/usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count181
+)
+\splwrite=\write3
+\openout3 = `Main.spl'.
+
+\appnamewidth=\dimen141
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count182
+\output=\toks19
+\linenoprevgraf=\count183
+\linenumbersep=\dimen142
+\linenumberwidth=\dimen143
+\c@linenumber=\count184
+\c@pagewiselinenumber=\count185
+\c@LN@truepage=\count186
+\c@internallinenumber=\count187
+\c@internallinenumbers=\count188
+\quotelinenumbersep=\dimen144
+\bframerule=\dimen145
+\bframesep=\dimen146
+\bframebox=\box51
+LaTeX Info: Redefining \\ on input line 3056.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language86
+LaTeX Info: Redefining \_ on input line 43.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2020/03/01 v5.4 Nomenclature package
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count189
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2020/01/24 v3.29 KOMA-Script package (handling toc-files)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
+))
+\scr@dte@tocline@numberwidth=\skip53
+\scr@dte@tocline@numbox=\box52
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 179.
+Package tocbasic Info: setting babel extension for `nls' on input line 180.
+\nomlabelwidth=\dimen147
+\nom@tempdim=\dimen148
+\nomitemsep=\skip54
+)
+\@nomenclaturefile=\write4
+\openout4 = `Main.nlo'.
+
+Package nomencl Info: Writing nomenclature file Main.nlo on input line 54.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count190
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count191
+\l__pdf_internal_box=\box53
+) (/Users/haiwenzhu/Desktop/work/018 Git/CEJ-ESP-gassy-flow-modeling/Main.aux)
+\openout1 = `Main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+ (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count192
+\scratchdimen=\dimen149
+\scratchbox=\box54
+\nofMPsegments=\count193
+\nofMParguments=\count194
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count195
+\MPscratchDim=\dimen150
+\MPnumerator=\count196
+\makeMPintoPDFobject=\count197
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Underfull \hbox (badness 1087) in paragraph at lines 122--127
+\OT1/cmr/m/n/12 is sig-nif-i-cantly af-fected by gas en-train-ment, which is an en-coun-tered
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 128.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 128.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 1708) in paragraph at lines 128--129
+[]\OT1/cmr/m/n/12 In the new model, the pump head is cal-cu-lated by sub-tract-ing
+ []
+
+
+Overfull \hbox (2.61108pt too wide) has occurred while \output is active
+[] 
+ []
+
+[1
+
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 154.
+
+<velocity triangle.jpg, id=13, 1413.28pt x 537.00626pt>
+File: velocity triangle.jpg Graphic file (type jpg)
+<use velocity triangle.jpg>
+Package pdftex.def Info: velocity triangle.jpg  used on input line 163.
+(pdftex.def)             Requested size: 390.0pt x 148.1893pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2]
+<head loss type.jpg, id=20, 1345.025pt x 475.7775pt>
+File: head loss type.jpg Graphic file (type jpg)
+<use head loss type.jpg>
+Package pdftex.def Info: head loss type.jpg  used on input line 197.
+(pdftex.def)             Requested size: 390.0pt x 137.95741pt.
+
+Underfull \hbox (badness 1360) in paragraph at lines 201--202
+\OT1/cmr/m/n/12 of gas-liquid per-for-mance in-side a ro-tat-ing cen-trifu-gal pump, sev-eral
+ []
+
+[3 </Users/haiwenzhu/Desktop/work/018 Git/CEJ-ESP-gassy-flow-modeling/velocity triangle.jpg>] [4 </Users/haiwenzhu/Desktop/work/018 Git/CEJ-ESP-gassy-flow-modeling/head loss type.jpg>]
+Underfull \hbox (badness 1960) in paragraph at lines 209--210
+[]\OT1/cmr/m/n/12 This sec-tion dis-cusses the mech-a-nis-tic model for pre-dict-ing ESP
+ []
+
+
+Underfull \hbox (badness 4366) in paragraph at lines 209--210
+\OT1/cmr/m/n/12 per-for-mance, in-clud-ing single-phase liq-uid and gas-liquid two-phase
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 209--210
+\OT1/cmr/m/n/12 bub-ble size, the in-situ gas void frac-tion $\OML/cmm/m/it/12 []$\OT1/cmr/m/n/12 , and drag co-ef-fi-cient,
+ []
+
+[5] (/Users/haiwenzhu/Desktop/work/018 Git/CEJ-ESP-gassy-flow-modeling/Main.nls [6]) (/Users/haiwenzhu/Desktop/work/018 Git/CEJ-ESP-gassy-flow-modeling/Main.bbl [7] [8]
+Underfull \hbox (badness 1033) in paragraph at lines 118--126
+[]\OT1/cmr/m/n/12 H. Zhu, J. Zhu, R. Rut-ter, H.-Q. Zhang,  Ex-per-i-men-tal study
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 137--141
+[]\OT1/cmr/m/n/12 O. Fu-ruya,  An an-a-lyt-i-cal model for pre-dic-tion of two-phase
+ []
+
+) [9] (/Users/haiwenzhu/Desktop/work/018 Git/CEJ-ESP-gassy-flow-modeling/Main.aux) ) 
+Here is how much of TeX's memory you used:
+ 3982 strings out of 480608
+ 58210 string characters out of 5903631
+ 341837 words of memory out of 5000000
+ 19830 multiletter control sequences out of 15000+600000
+ 538582 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,7n,35p,2007b,264s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "/Users/haiwenzhu/Desktop/work/018 Git/CEJ-ESP-gassy-flow-modeling/Main.pdf" (9 pages, 312787 bytes).
+PDF statistics:
+ 88 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+

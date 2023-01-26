@@ -1,0 +1,15 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{$g$}]\begingroup Gravitational Constant   \nomunit{$6.67384 \times 10^{-11}\, N \cdot m^2/kg^2$}\nomeqref {6}\nompageref{7}
+  \item [{$c$}]\begingroup Speed of light in a vacuum inertial system   \nomunit{$299,792,458\, m/s$}\nomeqref {6}\nompageref{7}
+  \item [{$h$}]\begingroup Plank Constant   \nomunit{$6.62607 \times 10^{-34}\, Js$}\nomeqref {6}\nompageref{7}
+\nomgroup{B}
+  \item [{$\mathbb{H}$}]\begingroup Quaternions\nomeqref {6}\nompageref{7}
+  \item [{$\mathbb{C}$}]\begingroup Complex Numbers     \nomunit{$6.67384 \times 10^{-11}\, N \cdot m^2/kg^2$}\nomeqref {6}\nompageref{7}
+  \item [{$\mathbb{R}$}]\begingroup Real Numbers\nomeqref {6}\nompageref{7}
+\nomgroup{C}
+  \item [{$\rho$}]\begingroup Friction Index\nomunit{m}\nomeqref {6}\nompageref{7}
+  \item [{$V$}]\begingroup Constant Volume\nomunit{m}\nomeqref {6}\nompageref{7}
+
+\end{thenomenclature}

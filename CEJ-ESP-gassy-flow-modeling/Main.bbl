@@ -1,0 +1,179 @@
+\begin{thebibliography}{25}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Book
+\bibitem[{Zhu(2017)}]{zhu2017phd}
+\bibinfo{author}{J.~Zhu}, \bibinfo{title}{Experiments, CFD simulation and
+  modeling of ESP performance under gassy conditions}, \bibinfo{publisher}{The
+  University of Tulsa}, \bibinfo{year}{2017}.
+%Type = Article
+\bibitem[{MURAKAMI and MINEMURA(1974{\natexlab{a}})}]{murakami1974effects1}
+\bibinfo{author}{M.~MURAKAMI}, \bibinfo{author}{K.~MINEMURA},
+\newblock \bibinfo{title}{Effects of entrained air on the performance of
+  centrifugal pumps: 1nd report, performance and flow conditions},
+\newblock \bibinfo{journal}{Bulletin of JSME} \bibinfo{volume}{17}
+  (\bibinfo{year}{1974}{\natexlab{a}}) \bibinfo{pages}{1047--1055}.
+%Type = Article
+\bibitem[{MURAKAMI and MINEMURA(1974{\natexlab{b}})}]{murakami1974effects2}
+\bibinfo{author}{M.~MURAKAMI}, \bibinfo{author}{K.~MINEMURA},
+\newblock \bibinfo{title}{Effects of entrained air on the performance of
+  centrifugal pumps: 2nd report, effects of number of blades},
+\newblock \bibinfo{journal}{Bulletin of JSME} \bibinfo{volume}{17}
+  (\bibinfo{year}{1974}{\natexlab{b}}) \bibinfo{pages}{1286--1295}.
+%Type = Phdthesis
+\bibitem[{Cirilo(1998)}]{cirilo1998air}
+\bibinfo{author}{R.~Cirilo}, \bibinfo{title}{Air-water flow through electric
+  submersible pumps}, Ph.D. thesis, University of Tulsa, Department of
+  Petroleum Engineering, \bibinfo{year}{1998}.
+%Type = Inproceedings
+\bibitem[{Pessoa et~al.(2001)Pessoa, Prado et~al.}]{pessoa2001experimental}
+\bibinfo{author}{R.~Pessoa}, \bibinfo{author}{M.~Prado}, et~al.,
+\newblock \bibinfo{title}{Experimental investigation of two-phase flow
+  performance of electrical submersible pump stages},
+\newblock in: \bibinfo{booktitle}{SPE Annual Technical Conference and
+  Exhibition}, \bibinfo{organization}{Society of Petroleum Engineers},
+  \bibinfo{year}{2001}.
+%Type = Phdthesis
+\bibitem[{Zapata(2003)}]{zapata2003rotational}
+\bibinfo{author}{L.~C. Zapata}, \bibinfo{title}{Rotational speed effects on ESP
+  two-phase performance}, Ph.D. thesis, University of Tulsa,
+  \bibinfo{year}{2003}.
+%Type = Phdthesis
+\bibitem[{Salehi(2012)}]{salehi2012esp}
+\bibinfo{author}{E.~Salehi}, \bibinfo{title}{ESP performance in two-phase flow
+  through mapping and surging tests at various rotational speeds and intake
+  pressures}, Ph.D. thesis, Master thesis, the University of Tulsa, Tulsa, OK,
+  \bibinfo{year}{2012}.
+%Type = Article
+\bibitem[{Zhu et~al.(2018)Zhu, Zhu, Wang, Zhang, Cuamatzi-Melendez, Farfan, and
+  Zhang}]{zhu2018surfactant}
+\bibinfo{author}{J.~Zhu}, \bibinfo{author}{H.~Zhu}, \bibinfo{author}{Z.~Wang},
+  \bibinfo{author}{J.~Zhang}, \bibinfo{author}{R.~Cuamatzi-Melendez},
+  \bibinfo{author}{J.~A.~M. Farfan}, \bibinfo{author}{H.-Q. Zhang},
+\newblock \bibinfo{title}{Surfactant effect on air/water flow in a multistage
+  electrical submersible pump (esp)},
+\newblock \bibinfo{journal}{Experimental Thermal and Fluid Science}
+  \bibinfo{volume}{98} (\bibinfo{year}{2018}) \bibinfo{pages}{95--111}.
+%Type = Phdthesis
+\bibitem[{Zhu(2019)}]{zhu2019experiments}
+\bibinfo{author}{H.~Zhu}, \bibinfo{title}{Experiments, CFD Simulation and
+  Modeling of Sand Wear and Performance Degradation in ESPs}, Ph.D. thesis, The
+  University of Tulsa, \bibinfo{year}{2019}.
+%Type = Article
+\bibitem[{Shen et~al.(2020)Shen, Chu, Yan, Chen, Guo, and
+  Zhong}]{shen2020study}
+\bibinfo{author}{Z.~Shen}, \bibinfo{author}{W.~Chu}, \bibinfo{author}{S.~Yan},
+  \bibinfo{author}{X.~Chen}, \bibinfo{author}{Z.~Guo},
+  \bibinfo{author}{Y.~Zhong},
+\newblock \bibinfo{title}{Study of the performance and internal flow in
+  centrifugal pump with grooved volute casing},
+\newblock \bibinfo{journal}{Modern Physics Letters B} \bibinfo{volume}{34}
+  (\bibinfo{year}{2020}) \bibinfo{pages}{2050268}.
+%Type = Phdthesis
+\bibitem[{Romero(1999)}]{romero1999evaluation}
+\bibinfo{author}{M.~Romero}, \bibinfo{title}{An evaluation of an electrical
+  submersible pumping system for high GOR wells}, Ph.D. thesis, University of
+  Tulsa, \bibinfo{year}{1999}.
+%Type = Inproceedings
+\bibitem[{Beltur et~al.(2003)Beltur, Prado, Duran, Pessoa
+  et~al.}]{beltur2003analysis}
+\bibinfo{author}{R.~Beltur}, \bibinfo{author}{M.~Prado},
+  \bibinfo{author}{J.~Duran}, \bibinfo{author}{R.~Pessoa}, et~al.,
+\newblock \bibinfo{title}{Analysis of experimental data of esp performance
+  under two-phase flow conditions},
+\newblock in: \bibinfo{booktitle}{SPE Production and Operations Symposium},
+  \bibinfo{organization}{Society of Petroleum Engineers}, \bibinfo{year}{2003}.
+%Type = Phdthesis
+\bibitem[{Duran(2003)}]{duran2003pressure}
+\bibinfo{author}{J.~Duran}, \bibinfo{title}{Pressure Effects on ESP stages
+  air-water performance}, Ph.D. thesis, University of Tulsa,
+  \bibinfo{year}{2003}.
+%Type = Book
+\bibitem[{Gamboa(2009)}]{gamboa2009prediction}
+\bibinfo{author}{J.~Gamboa}, \bibinfo{title}{Prediction of the transition in
+  two-phase performance of an electrical submersible pump},
+  \bibinfo{publisher}{Proquest}, \bibinfo{year}{2009}.
+%Type = Inproceedings
+\bibitem[{Banjar et~al.(2013)Banjar, Gamboa, Zhang
+  et~al.}]{banjar2013experimental}
+\bibinfo{author}{H.~Banjar}, \bibinfo{author}{J.~Gamboa},
+  \bibinfo{author}{H.-Q. Zhang}, et~al.,
+\newblock \bibinfo{title}{Experimental study of liquid viscosity effect on
+  two-phase stage performance of electrical submersible pumps},
+\newblock in: \bibinfo{booktitle}{SPE Annual Technical Conference and
+  Exhibition}, \bibinfo{organization}{Society of Petroleum Engineers},
+  \bibinfo{year}{2013}.
+%Type = Article
+\bibitem[{Zhu et~al.(2020)Zhu, Zhu, Rutter, and Zhang}]{zhu2020experimental}
+\bibinfo{author}{H.~Zhu}, \bibinfo{author}{J.~Zhu},
+  \bibinfo{author}{R.~Rutter}, \bibinfo{author}{H.-Q. Zhang},
+\newblock \bibinfo{title}{Experimental study on deteriorated performance,
+  vibration, and geometry changes of an electrical submersible pump under sand
+  water flow condition},
+\newblock \bibinfo{journal}{Journal of Energy Resources Technology}
+  \bibinfo{volume}{143} (\bibinfo{year}{2020}).
+%Type = Book
+\bibitem[{Barrios(2007)}]{barrios2007visualization}
+\bibinfo{author}{L.~J. Barrios}, \bibinfo{title}{Visualization and modeling of
+  multiphase performance inside an electrical submersible pump},
+  \bibinfo{publisher}{ProQuest}, \bibinfo{year}{2007}.
+%Type = Phdthesis
+\bibitem[{Trevisan(2009)}]{trevisan2009modeling}
+\bibinfo{author}{F.~E. Trevisan}, \bibinfo{title}{Modeling and visualization of
+  air and viscous liquid in electrical submersible pump}, Ph.D. thesis,
+  University of Tulsa, \bibinfo{year}{2009}.
+%Type = Article
+\bibitem[{Furuya(1985)}]{furuya1985analytical}
+\bibinfo{author}{O.~Furuya},
+\newblock \bibinfo{title}{An analytical model for prediction of two-phase
+  (noncondensable) flow pump performance}  (\bibinfo{year}{1985}).
+%Type = Phdthesis
+\bibitem[{Sachdeva(1988)}]{sachdeva1988two}
+\bibinfo{author}{R.~Sachdeva}, \bibinfo{title}{Two-phase flow through electric
+  submersible pumps}, Ph.D. thesis, University of Tulsa, \bibinfo{year}{1988}.
+%Type = Article
+\bibitem[{Sachdeva et~al.(1994)Sachdeva, Doty, Schmidt
+  et~al.}]{sachdeva1994performance}
+\bibinfo{author}{R.~Sachdeva}, \bibinfo{author}{D.~Doty},
+  \bibinfo{author}{Z.~Schmidt}, et~al.,
+\newblock \bibinfo{title}{Performance of electric submersible pumps in gassy
+  wells},
+\newblock \bibinfo{journal}{SPE Production \& Facilities} \bibinfo{volume}{9}
+  (\bibinfo{year}{1994}) \bibinfo{pages}{55--60}.
+%Type = Article
+\bibitem[{Minemura et~al.(1998)Minemura, Uchiyama, Shoda, and
+  Egashira}]{minemura1998prediction}
+\bibinfo{author}{K.~Minemura}, \bibinfo{author}{T.~Uchiyama},
+  \bibinfo{author}{S.~Shoda}, \bibinfo{author}{K.~Egashira},
+\newblock \bibinfo{title}{Prediction of air-water two-phase flow performance of
+  a centrifugal pump based on one-dimensional two-fluid model}
+  (\bibinfo{year}{1998}).
+%Type = Phdthesis
+\bibitem[{Sun(2003)}]{sun2003}
+\bibinfo{author}{D.~Sun}, \bibinfo{title}{Modeling gas-liquid head performance
+  of electrical submersible pumps}, Ph.D. thesis, University of Tulsa,
+  Department of Petroleum Engineering, \bibinfo{year}{2003}.
+%Type = Article
+\bibitem[{Sun and Prado(2005)}]{sun2005modeling}
+\bibinfo{author}{D.~Sun}, \bibinfo{author}{M.~Prado},
+\newblock \bibinfo{title}{Modeling gas-liquid head performance of electrical
+  submersible pumps},
+\newblock \bibinfo{journal}{J. Pressure Vessel Technol.} \bibinfo{volume}{127}
+  (\bibinfo{year}{2005}) \bibinfo{pages}{31--38}.
+%Type = Book
+\bibitem[{Takacs(2017)}]{takacs2017electrical}
+\bibinfo{author}{G.~Takacs}, \bibinfo{title}{Electrical submersible pumps
+  manual: design, operations, and maintenance}, \bibinfo{publisher}{Gulf
+  professional publishing}, \bibinfo{year}{2017}.
+
+\end{thebibliography}

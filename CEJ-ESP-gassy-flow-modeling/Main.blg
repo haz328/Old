@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Main.aux
+The style file: elsarticle-num-names.bst
+Database file #1: bibliography.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty pages in pessoa2001experimental
+Warning--empty pages in beltur2003analysis
+Warning--empty pages in banjar2013experimental
+Warning--empty journal in furuya1985analytical
+Warning--empty journal in minemura1998prediction
+You've used 25 entries,
+            2918 wiz_defined-function locations,
+            750 strings with 9194 characters,
+and the built_in function-call counts, 13282 in all, are:
+= -- 881
+> -- 513
+< -- 17
++ -- 201
+- -- 171
+* -- 1386
+:= -- 1992
+add.period$ -- 25
+call.type$ -- 25
+change.case$ -- 165
+chr.to.int$ -- 24
+cite$ -- 30
+duplicate$ -- 1090
+empty$ -- 1065
+format.name$ -- 224
+if$ -- 2425
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 202
+newline$ -- 112
+num.names$ -- 100
+pop$ -- 461
+preamble$ -- 1
+purify$ -- 178
+quote$ -- 0
+skip$ -- 286
+stack$ -- 0
+substring$ -- 443
+swap$ -- 638
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 213
+warning$ -- 5
+while$ -- 85
+width$ -- 0
+write$ -- 321
+(There were 5 warnings)
